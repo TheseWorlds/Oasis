@@ -1,0 +1,2 @@
+# Squeak!
+http://squeak.org/
